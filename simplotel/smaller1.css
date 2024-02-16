@@ -1,0 +1,87 @@
+#navbar {
+    width: 90%;
+}
+
+#navbar ul li a {
+    font-size: 1rem;
+    padding: 0px 5px;
+}
+
+#services {
+    height: 700px;
+}
+
+#services1 {
+    height: 700px;
+}
+
+#services1 .box2 {
+    display: flex;
+    box-sizing: border-box;
+
+    flex-direction: column;
+    align-self: center;
+
+    /* padding: 10px 13px; */
+    width: 15%;
+    height: 80%;
+    margin: 80px;
+}
+
+#services1 .box2 .img1 {
+
+
+
+    width: 200px;
+    height: 200px;
+    padding: 5px 9px;
+}
+
+#services1 .box2 .img2 {
+
+
+
+    width: 200px;
+    height: 200px;
+    padding: 5px 9px;
+
+}
+
+#services1 .box4 {
+
+    display: flex;
+    box-sizing: border-box;
+
+    flex-direction: column;
+    align-self: center;
+
+    /* padding: 10px 13px; */
+    width: 15%;
+    height: 80%;
+    margin: 0px;
+
+}
+
+#services1 .box4 .img3 {
+
+
+
+
+    width: 200px;
+    height: 410px;
+    padding: 5px 9px;
+}
+
+#services1 .box3 {
+    display: flex;
+
+    align-self: flex-start;
+    flex-direction: column;
+    box-sizing: border-box;
+
+    background-color: rgb(246, 147, 130);
+    /* padding: 10px 13px; */
+    width: 50%;
+    height: 30%;
+    margin: 200px 150px 200px 150px;
+}

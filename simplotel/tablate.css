@@ -1,0 +1,16 @@
+#navbar {
+    width: 95%;
+}
+
+#navbar ul li a {
+    font-size: 1rem;
+    padding: 0px 20px;
+}
+
+#services {
+    height: 370px;
+}
+
+#services1 {
+    height: 370px;
+}
